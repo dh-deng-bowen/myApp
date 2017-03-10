@@ -2,7 +2,6 @@ package iApp.service.servicefactory;
 
 import iApp.service.servicefactory.proxy.proxyfactory.ProxyFactory;
 import iApp.service.services.interfaces.ITestSV;
-import org.apache.commons.lang.StringUtils;
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
 
